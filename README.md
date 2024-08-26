@@ -1,14 +1,13 @@
 # Hello, I'm Mohanraj B
 Currently working as a DevOps Engineer at Cloud Destinations.
 
+## Hope your day is as awesome as you are!
+
 ## Certified Google Cloud Cloud Digital Leader 
 
 <img width="104" alt="cloud-digital-leader-certification (7)" src="https://github.com/user-attachments/assets/2133841e-2772-41ef-987a-5b27f0ca72fc">
 
-
-
-
-## Hope your day is as awesome as you are!
+[Check out my Credly Badge](https://www.credly.com/badges/cb843ca3-a503-45c6-9681-af02171fec5f)
 
 #### GitHub repository showcasing my contact details, skills, and expertise in DevOps practices, including Cloud Services, CI/CD, Containerization, and Infrastructure as Code [Terraform and Ansible]
 
