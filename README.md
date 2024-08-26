@@ -1,6 +1,9 @@
 # Hello, I'm Mohanraj B
 Currently working as a DevOps Engineer at Cloud Destinations.
-Google Cloud Certified Cloud Digital Leader <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cb843ca3-a503-45c6-9681-af02171fec5f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+Google Cloud Certified Cloud Digital Leader <img width="68" alt="cloud-digital-leader-certification" src="https://github.com/user-attachments/assets/709362db-e8fc-456c-847e-33d53c1b3b20">
+
 
 
 ## Hope your day is as awesome as you are!
