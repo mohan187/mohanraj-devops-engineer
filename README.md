@@ -10,6 +10,13 @@ Currently working as a DevOps Engineer at Cloud Destinations.
 ![This is link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - http://linkedin.com/in/mohan-raj-devops-engineer
 
 
+
+About Me...
+🔗 I’m currently learning GenAI
+👐 I’m looking to contribute my expertise as a DevOps Engineer, focusing on optimizing infrastructure, enhancing CI/CD pipelines, and ensuring seamless cloud operations.
+🥅 2024 Goals: Learn more about Strengthen Security Posture
+
+
 ## Skills
 ![This is link](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
