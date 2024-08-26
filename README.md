@@ -1,7 +1,5 @@
 # Hello, I'm Mohanraj B
-Currently working as a DevOps Engineer at Cloud Destinations ![image](https://github.com/user-attachments/assets/30a64274-26a6-45ea-88e4-cf018b65a206)
-
-
+Currently working as a DevOps Engineer at Cloud Destinations.
 
 ## Hope your day is as awesome as you are!
 Working as DevOps Engineer at Cloud Destinations
