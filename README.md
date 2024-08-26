@@ -2,7 +2,8 @@
 Currently working as a DevOps Engineer at Cloud Destinations.
 
 
-Google Cloud Certified Cloud Digital Leader <img width="68" alt="cloud-digital-leader-certification" src="https://github.com/user-attachments/assets/709362db-e8fc-456c-847e-33d53c1b3b20">
+Google Cloud Certified Cloud Digital Leader <img width="520" alt="cloud-digital-leader-certification (1)" src="https://github.com/user-attachments/assets/06734baf-01f8-4669-863a-004a4001cae3">
+
 
 
 
