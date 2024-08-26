@@ -12,8 +12,11 @@ Currently working as a DevOps Engineer at Cloud Destinations.
 
 
 About Me...
+
 🔗 I’m currently learning GenAI
+
 👐 I’m looking to contribute my expertise as a DevOps Engineer, focusing on optimizing infrastructure, enhancing CI/CD pipelines, and ensuring seamless cloud operations.
+
 🥅 2024 Goals: Learn more about Strengthen Security Posture
 
 
