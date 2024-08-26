@@ -2,7 +2,7 @@
 Currently working as a DevOps Engineer at Cloud Destinations.
 
 ## Hope your day is as awesome as you are!
-Working as DevOps Engineer at Cloud Destinations
+
 #### GitHub repository showcasing my contact details, skills, and expertise in DevOps practices, including Cloud Services, CI/CD, Containerization, and Infrastructure as Code [Terraform and Ansible]
 
 ![This is link](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - mohan1raj8239@gmail.com
