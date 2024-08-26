@@ -1,7 +1,5 @@
-# Hello, I'm Mohanraj B
+# Hello, I'm Mohanraj B, Hope your day is as awesome as you are!
 Currently working as a DevOps Engineer at Cloud Destinations.
-
-## Hope your day is as awesome as you are!
 
 ## Certified Google Cloud Cloud Digital Leader 
 
