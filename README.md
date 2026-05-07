@@ -1,4 +1,4 @@
-<h1 align="center">Mohanraj Balan</h1>
+<h1 align="center">Hi, I'm Mohanraj Balan</h1>
 <h3 align="center">DevOps & Platform Engineer | GCP · AWS | 4+ Years</h3>
 
 <p align="center">
@@ -8,6 +8,9 @@
 <p align="center">
   <a href="http://linkedin.com/in/mohan-raj-devops-engineer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohanrajbalan19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mohan187&style=for-the-badge&color=00B4D8&label=Profile+Views"/>
 </p>
@@ -118,12 +121,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan187&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan187&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohan187&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan187&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohan187&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=mohan187&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -144,6 +147,9 @@
 <p align="center">
   <a href="http://linkedin.com/in/mohan-raj-devops-engineer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mohanraj%20Balan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohanrajbalan19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mohanrajbalan19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
